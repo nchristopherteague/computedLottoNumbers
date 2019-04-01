@@ -1,0 +1,11 @@
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\bin\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.deps.json
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\bin\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.dll
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\bin\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.pdb
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\obj\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.csproj.CoreCompileInputs.cache
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\obj\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.AssemblyInfoInputs.cache
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\obj\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.AssemblyInfo.cs
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\obj\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.dll
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\obj\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.pdb
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\obj\Debug\netcoreapp2.2\ComputedLottoNumbers.Core.csprojAssemblyReference.cache
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\bin\Debug\netcoreapp2.2\Data\Files\MegaMillions.xml
+C:\Users\kiffer\Google Drive\TeagueBusinesses\ComputedLottoNumbers\ComputedLottoNumbers.Core\bin\Debug\netcoreapp2.2\Data\Files\Powerball.xml

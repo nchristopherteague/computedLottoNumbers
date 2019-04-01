@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LotteryStatistics.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "/run=ShowNumberStatistics,ShowBonusBallStatistics,ShowPatternStatistics,ShowGeneratedNumbers,ShowExistingLotteryNumbersPerPattern /lotteries=Powerball,\"Mega Millions\" /OutputMode=File /NumberOfRandomSelections=2 /pattern=\"1,2,3,4,5\""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\bin\Debug\netcoreapp2.2\Data\Files\MegaMillions.xml
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\bin\Debug\netcoreapp2.2\Data\Files\Powerball.xml
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\bin\Debug\netcoreapp2.2\LotteryStatistics.Core.deps.json
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\bin\Debug\netcoreapp2.2\LotteryStatistics.Core.dll
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\bin\Debug\netcoreapp2.2\LotteryStatistics.Core.pdb
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\obj\Debug\netcoreapp2.2\LotteryStatistics.Core.csproj.CoreCompileInputs.cache
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\obj\Debug\netcoreapp2.2\LotteryStatistics.Core.AssemblyInfoInputs.cache
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\obj\Debug\netcoreapp2.2\LotteryStatistics.Core.AssemblyInfo.cs
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\obj\Debug\netcoreapp2.2\LotteryStatistics.Core.dll
+C:\Users\kiffer\Desktop\ChristopherTeague\LotteryStatistics\LotteryStatistics.Core\obj\Debug\netcoreapp2.2\LotteryStatistics.Core.pdb
