@@ -1,1 +1,1 @@
-# computedLottoNumbers
+# lotterystatistics
